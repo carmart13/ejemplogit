@@ -17,8 +17,9 @@ public class Ejemplogit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("mi primer control de versiones");
+
         System.out.println("este es una prueba de añadir codigo");
-        System.out.println("esta es la tercera linea que luego borrare...");
+   
     }
     
 }
